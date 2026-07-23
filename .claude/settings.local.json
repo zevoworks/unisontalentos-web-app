@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "PowerShell(npx pnpm run build 2>&1)",
-      "PowerShell(npx tsc --noEmit 2>&1)"
+      "PowerShell(npx tsc --noEmit 2>&1)",
+      "PowerShell(npx pnpm add -D wrangler)"
     ]
   }
 }
