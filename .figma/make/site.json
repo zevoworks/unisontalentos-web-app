@@ -1,0 +1,10 @@
+{
+  "description": "Easily convert Markdown files into beautifully formatted web pages, streamlining content creation for writers, developers, and marketers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
